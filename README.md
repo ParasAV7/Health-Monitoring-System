@@ -37,7 +37,7 @@ The system leverages **biomedical sensors** to collect data, displays it locally
 ![alt text](image.png)
 
 ### Circuit Diagram
-!![alt text](<WhatsApp Image 2025-01-16 at 14.14.28_ec02e390.jpg>)
+!![alt text](Output/img/image.png)
 
 ---
 
