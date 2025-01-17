@@ -62,8 +62,8 @@ The system leverages **biomedical sensors** to collect data, displays it locally
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/esp8266-health-monitor.git
-   cd esp8266-health-monitor
+   git clone https://github.com/ParasAV7/Health-Monitoring-System.git
+   cd Code
 
 Connect the sensors and OLED display to the NodeMCU as per the circuit diagram.
 Configure your Wi-Fi credentials and Blynk authentication token in the code:
