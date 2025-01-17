@@ -75,22 +75,40 @@ char pass[] = "Your_PASSWORD";
 #define BLYNK_AUTH_TOKEN "Your_Blynk_Token"
 Upload the code to NodeMCU using Arduino IDE.
 Monitor health metrics on the OLED display and Blynk app.
-Results
-Temperature: Accurate readings displayed locally and remotely.
-Heart Rate & SpO2: Stable readings with consistent updates.
-OLED & Blynk Integration: Clear real-time display of health metrics.
-Future Enhancements
-Add additional sensors (ECG, blood pressure).
-Implement predictive analytics using AI/ML.
-Develop wearable versions for increased portability.
-Enhance data privacy with advanced encryption.
-Contributing
+
+
+## Results
+- **Temperature**: Accurate readings displayed locally and remotely.
+- **Heart Rate & SpO2**: Stable readings with consistent updates.
+- **OLED & Blynk Integration**: Clear real-time display of health metrics.
+
+---
+
+## Future Enhancements
+- Add additional sensors (ECG, blood pressure).
+- Implement predictive analytics using AI/ML.
+- Develop wearable versions for increased portability.
+- Enhance data privacy with advanced encryption.
+
+---
+
+## Contributing
 Contributions are welcome! Fork the repository and submit a pull request for review.
 
-License
-This project is licensed under the MIT License.
+---
 
-Acknowledgments
-Special thanks to the Department of Electronics and Communication Engineering, BMS College of Engineering, and project guide Dr. Shivkumar M for their guidance and support.
+## License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-Feel free to tweak this README further based on your preferences or specific details about the project. Let me know if you'd like additional help!
+---
+
+## Acknowledgments
+Special thanks to:
+- The **Department of Electronics and Communication Engineering, BMS College of Engineering**, and project guide **Dr. Shivkumar M** for their guidance and support.
+- **Team members**:
+  - **Pratik Gaurav**
+  - **Purna S**
+  - **Rachana N**
+
+Your hard work and dedication made this project a success!
+
